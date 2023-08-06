@@ -1,0 +1,12 @@
+2023-08-06 04:58:07.544559 - Initialized conversion of CBT511
+2023-08-06 04:58:07.650848 - Received CBT.V505.FILE511.PDS from FILE511.XMI 
+2023-08-06 04:58:07.653647 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE511.PDS, moved to PDS/$$$#DATE
+2023-08-06 04:58:07.654737 - Found $$DOC.txt (text/plain) in CBT.V505.FILE511.PDS, moved to PDS/$$DOC
+2023-08-06 04:58:07.655899 - Found @FILE511.txt (text/plain) in CBT.V505.FILE511.PDS, moved to PDS/@FILE511
+2023-08-06 04:58:07.656867 - Found FIXUPDSN.txt (text/plain) in CBT.V505.FILE511.PDS, moved to PDS/FIXUPDSN
+2023-08-06 04:58:07.657896 - Found GENSUB.txt (text/plain) in CBT.V505.FILE511.PDS, moved to PDS/GENSUB
+2023-08-06 04:58:07.658954 - Found GENSUB#.txt (text/plain) in CBT.V505.FILE511.PDS, moved to PDS/GENSUB#
+2023-08-06 04:58:07.658964 - Found ISPPLIB.bin containing application/octet-stream, moved to PDS/ISPPLIB
+2023-08-06 04:58:07.661007 - Found ISPSLIB.txt (text/plain) in CBT.V505.FILE511.PDS, moved to PDS/ISPSLIB
+2023-08-06 04:58:07.662022 - Found VSAMCL.txt (text/plain) in CBT.V505.FILE511.PDS, moved to PDS/VSAMCL
+2023-08-06 04:58:07.663196 - Found VSAMPGM.txt (text/plain) in CBT.V505.FILE511.PDS, moved to PDS/VSAMPGM
